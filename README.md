@@ -26,7 +26,7 @@
 
  - Wrap up and critical perspectives  
 
-## Preparing for the workshop  
+## Preparing for the Winter School  
 
 For those not familiar with Python, here are some instructions for you to prepare for the Winter School:
 
