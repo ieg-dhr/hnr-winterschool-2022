@@ -26,5 +26,14 @@
 
  - Wrap up and critical perspectives  
 
-## Introduction to Python and data analaysis  
+## Preparing for the workshop  
+
+For those not familiar with Python, here are some instructions for you to prepare for the Winter School:
+
+ - We highly recommend that you install [Anaconda](https://www.anaconda.com/products/individual) (or Miniconda), according to your operating system.  
+Anaconda will automatically install Python, Jupyter Notebook, and all Python packages we will use during the workshop. Anaconda is a stress-free way of starting with Python.  
+ - This repository has two introductory tutorials using Jupyter Notebooks:  
+     1- Introduction_Jupyter_Python.ipynb  
+     2- Introduction_Data_Analysis_with_Python.ipynb
+     You have to open already using Jupyter Notebook. IF you do not know how to do it, check this [documentation](https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html) 
 
