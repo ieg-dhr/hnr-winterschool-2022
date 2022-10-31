@@ -1,5 +1,4 @@
-# IEG Winter School 2022    
-A beginner’s guide to historical network research
+# IEG Winter School 2022 – A beginner’s guide to historical network research
 
 ## Syllabus
 
