@@ -1,6 +1,6 @@
 # IEG Winter School 2022 – A beginner’s guide to historical network research
 
-Authors: Dr. Demival Vasques Filho [Google Scholar](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1) and Dr. Cindarella Petz [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=de&hl=de&user=tCmBIasAAAAJ)
+Authors: Dr. Demival Vasques Filho ([Google Scholar](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1)) and Dr. Cindarella Petz ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=de&hl=de&user=tCmBIasAAAAJ))
 
 ## Syllabus
 
